@@ -7,7 +7,7 @@ September 2022
 This repository contains a technical annex for the deliverable **D3.7
 PoliRural GitHub Account**.
 
-<img src="img/GHOAZ.png" width="45%" style="display: block; margin: auto;" />
+<img src="img/GHOAZ.png" width="75%" style="display: block; margin: auto;" />
 
 The document, **GitHub Fundamentals. OpenAIRE & Zenodo
 infrastructures**, compiles some basic information about `GitHub` and

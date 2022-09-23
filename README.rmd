@@ -38,7 +38,7 @@ library(utf8)
 
 This repository contains a technical annex for the deliverable **D3.7 PoliRural GitHub Account**.
 
-```{r frontpage, fig.align='center', out.width='45%', echo=FALSE}
+```{r frontpage, fig.align='center', out.width='75%', echo=FALSE}
 knitr::include_graphics("img/GHOAZ.png")
 ```
 
