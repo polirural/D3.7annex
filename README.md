@@ -1,4 +1,4 @@
-GitHub Fundamentals. OpenAIRE & Zenodo infraestructures
+GitHub Fundamentals. OpenAIRE & Zenodo infrastructures
 ================
 September 2022
 
@@ -10,6 +10,11 @@ PoliRural GitHub Account**.
 The document, **GitHub Fundamentals. OpenAIRE & Zenodo
 infrastructures**, compiles some basic information about `GitHub` and
 its interaction with the European `OpenAIRE` infrastructure, especially
-through Zenodo repository. It can be downloaded in
+through Zenodo repository. It can be downloaded from
 [docx](/D3.7%20PoliRural%20GitHub%20Account_ext.docx) or
 [PDF](/D3.7%20PoliRural%20GitHub%20Account_ext.pdf).
+
+It is not an in-deep analysis of those topics, but if more details are
+needed, some resources are provided along the text; regardless the
+report has been designed to be consistent without need of visiting the
+links.
