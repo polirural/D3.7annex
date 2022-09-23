@@ -2,6 +2,8 @@ GitHub Fundamentals. OpenAIRE & Zenodo infraestructures
 ================
 September 2022
 
+[![Status](https://img.shields.io/badge/Status-Work%20in%20progress-orange?style=plastic)](https://github.com/polirural)
+
 This repository contains a technical annex for the deliverable **D3.7
 PoliRural GitHub Account**.
 

@@ -14,6 +14,8 @@ output:
     toc_depth: 4
 ---
 
+[![Status](https://img.shields.io/badge/Status-Work%20in%20progress-orange?style=plastic)](https://github.com/polirural)
+
 ```{r setup, include=FALSE}
 if (!require('knitr')) install.packages('knitr', repos = "http://cran.us.r-project.org")
 library(knitr)
