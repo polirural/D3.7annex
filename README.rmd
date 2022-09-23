@@ -1,12 +1,9 @@
 ---
-title: "GitHub Fundamentals. OpenAIRE & Zenodo infraestructures"
-## author: "Visión rápida"
+title: "GitHub Fundamentals. OpenAIRE & Zenodo infrastructures"
 subtitle: "Technical annex for D3.7 PoliRural GitHub Account deliverable"
 abstract: "This document compiles some basic information about GitHub and its interaction with the European OpenAIRE infrastructure, especially through Zenodo repository"
 lang: en-GB
-fontsize: 11pt
 email: joseaheras@pm.me
-urlcolor: lightgray
 date: "September 2022"
 output:
   github_document:
