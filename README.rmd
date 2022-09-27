@@ -3,7 +3,6 @@ title: "GitHub Fundamentals. OpenAIRE & Zenodo infrastructures"
 subtitle: "Technical annex for D3.7 PoliRural GitHub Account deliverable"
 abstract: "This document compiles some basic information about GitHub and its interaction with the European OpenAIRE infrastructure, especially through Zenodo repository"
 lang: en-GB
-email: joseaheras@pm.me
 date: "September 2022"
 output:
   github_document:
@@ -11,7 +10,7 @@ output:
     toc_depth: 4
 ---
 
-[![Status](https://img.shields.io/badge/Status-Work%20in%20progress-orange?style=plastic)](https://github.com/polirural)
+[![Status](https://img.shields.io/badge/Status-Online-green?style=plastic)](https://github.com/polirural)
 
 ```{r setup, include=FALSE}
 if (!require('knitr')) install.packages('knitr', repos = "http://cran.us.r-project.org")
